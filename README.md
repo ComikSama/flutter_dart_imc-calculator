@@ -15,7 +15,16 @@ Aplicación simple para calcular el IMC según peso y altura, mostrar el resulta
 
 **Capturas**
 
-Las imágenes se encuentran en la carpeta assets/images/.
+Capturas de pantalla (se mostrarán en GitHub usando rutas relativas):
+
+![Pantalla principal](assets/images/screen_1.png)
+
+![Pantalla de resultado](assets/images/screen_2.png)
+
+Otras imágenes del proyecto:
+
+- ![Male](assets/images/male.png)
+- ![Female](assets/images/female.png)
 
 **Requisitos**
 
@@ -64,8 +73,3 @@ flutter run -d chrome
 - `lib/screens/` — Pantallas (`imc_home_screen.dart`, `imc_result_screen.dart`)
 - `lib/components/` — Widgets reutilizables (`gender_selector.dart`, `height_selector.dart`, `number_selector.dart`)
 - `assets/images/` — Imágenes y recursos gráficos
-
-**Subir a GitHub**
-
-Si aún no has inicializado un repositorio Git local, puedes usar estos comandos:
-
