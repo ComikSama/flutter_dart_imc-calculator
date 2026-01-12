@@ -15,7 +15,7 @@ Aplicación simple para calcular el IMC según peso y altura, mostrar el resulta
 
 **Capturas**
 
-Capturas de pantalla (se mostrarán en GitHub usando rutas relativas):
+Capturas de pantalla:
 
 <div align="center">
   <table>
